@@ -1,2 +1,5 @@
 venv
 config.yaml
+*.csv
+*.jsonlines
+*.DS_Store
